@@ -1,0 +1,12 @@
+h1
+{color:blue;}
+body
+{background-color: azure;}
+#div
+{
+    width: 800;
+    margin: auto;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+}
