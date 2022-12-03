@@ -10,3 +10,9 @@ body
     text-align: center;
     align-content: center;
 }
+
+.prout
+
+{  -webkit-border-radius: 11px;
+  -moz-border-radius: 11px;
+}
